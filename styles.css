@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Estilos para Borussia Dortmund */
+.borussia {
+    color: black;
+    background-color: yellow;
+}
+
+/* Estilos para Real Madrid */
+.real-madrid {
+    color: yellow;
+    background-color: blue;
+}
